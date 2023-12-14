@@ -1,5 +1,11 @@
 # Mathil YouTube Video Analytics
 
+## Disclaimer 📝⚠️
+
+**Original Work and AI-Assisted Iteration:** This project, originally completed months ago and solely by myself, is titled 'Mathil Youtube.' The current iteration, named '0_Exploratory_Data_Analysis', was undertaken to evaluate the capabilities of AI in analytics, Python coding, and API execution. This iteration serves as a testament to the collaborative potential between human insight and AI in data science.
+
+*The insights and visualizations presented herein are a product of this AI-assisted analysis.*
+
 ## Project Goals 🎯
 
 The aim of this project was to harness the capabilities of Python and the YouTube API to:
