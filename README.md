@@ -4,7 +4,7 @@
 
 **Original Work and AI-Assisted Iteration:** This project, originally completed months ago and solely by myself, is titled 'Mathil Youtube.' The current iteration, named '0_Exploratory_Data_Analysis', was undertaken to evaluate the capabilities of AI in analytics, Python coding, and API execution. This iteration serves as a testament to the collaborative potential between human insight and AI in data science.
 
-*The initital insights and visualizations presented herein are a product of this AI-assisted analysis. Manual changes to coding has been applied where the AI failed.*
+*The initital insights and visualizations presented herein are a product of this AI-assisted analysis. Manual changes to coding have been applied where the AI failed.*
 
 ## Project Goals 🎯
 
