@@ -1,12 +1,12 @@
 # Mathil YouTube Video Analytics
 
-## Disclaimer 📝⚠️
+## ⚠️ Disclaimer
 
 **Original Work and AI-Assisted Iteration:** This project, originally completed months ago and solely by myself, is titled 'Mathil Youtube.' The current iteration, named '0_Exploratory_Data_Analysis', was undertaken to evaluate the capabilities of AI in analytics, Python coding, and API execution. This iteration serves as a testament to the collaborative potential between human insight and AI in data science.
 
 *The initital insights and visualizations presented herein are a product of this AI-assisted analysis. Manual changes to coding have been applied where the AI failed.*
 
-## Project Goals 🎯
+## 🎯 Project Goals
 
 The aim of this project was to harness the capabilities of Python and the YouTube API to:
 
@@ -18,7 +18,7 @@ The aim of this project was to harness the capabilities of Python and the YouTub
 This endeavor seeks to uncover patterns and trends that could inform content strategy and audience growth initiatives.
 
 
-## YouTube Channel Statistics as of December 12, 2023 🗓️
+## 🗓️ YouTube Channel Statistics as of December 12, 2023
 
 - **Channel Title:** Mathilification
 - **Total Views:** **85,813,468**
@@ -27,13 +27,13 @@ This endeavor seeks to uncover patterns and trends that could inform content str
 
 These figures represent the channel's status as of this day, reflecting its extensive reach and robust content library.
 
-## Video Views Distribution 📊
+## 📊 Video Views Distribution
 
 **Right-skewed distribution:** Most videos have a view count significantly lower than the average, with a long tail of videos that have very high view counts. This suggests a high variance in video popularity.
 
 ![](images/views_dist.png)
 
-## Engagement Trends Over Time 📈🗣️💬
+## 📈🗣️💬 Engagement Trends Over Time
 
 **Fluctuating engagement:** The chart displays a timeline of likes (in blue) and comments (in green) from 2014 to 2023. While likes show notable spikes, suggesting viral hits, comments have a more consistent presence, indicating steady viewer engagement.
 
@@ -41,7 +41,7 @@ These figures represent the channel's status as of this day, reflecting its exte
 
 Observations indicate that while likes can vary significantly, potentially due to a few highly popular videos, comments remain relatively stable over time, reflecting a core engaged audience.
 
-## Content Production Trends 🎥📆
+## 🎥📆 Content Production Trends
 
 **Gradual decrease in uploads:** The bar chart shows the number of videos uploaded each year from 2013 to 2023. After peaking in 2016, there's a noticeable downward trend in the number of videos posted annually.
 
@@ -49,7 +49,7 @@ Observations indicate that while likes can vary significantly, potentially due t
 
 The trend suggests a shift in content strategy, possibly focusing on quality over quantity or changes in resource allocation.
 
-## Top 10 Videos by Popularity 🏆👁️
+## 🏆👁️ Top 10 Videos by Popularity
 
 **Viral content highlights:** This horizontal bar chart showcases the top 10 videos by views, with 'A Simple Blade Flurry Assassin - Full Guide' leading the chart. The visual indicates a strong preference for comprehensive guides and gameplay mechanics among viewers.
 
@@ -57,7 +57,7 @@ The trend suggests a shift in content strategy, possibly focusing on quality ove
 
 The success of these videos suggests that in-depth tutorials and skill demonstrations resonate strongly with the audience, potentially guiding future content creation.
 
-## Monthly Content Upload Patterns 📅📈
+## 📅📈 Monthly Content Upload Patterns
 
 **Consistent output with end-of-year surge:** The bar chart illustrates the monthly video upload count, indicating a consistent production rate throughout the year, with a notable increase in November and December.
 
@@ -65,7 +65,7 @@ The success of these videos suggests that in-depth tutorials and skill demonstra
 
 This pattern may suggest strategic content ramp-up during the year-end, possibly to capitalize on higher viewer availability during the holiday season.
 
-## Yearly Engagement Metrics Trends 📊👀💖💬
+## 📊👀💖💬 Yearly Engagement Metrics Trends
 
 **Peaks and Valleys in Engagement:** The trio of line graphs depicts the yearly average views (in blue), likes (in green), and comments (in red) from 2013 to 2023. Each metric peaked at different times, with views peaking in 2018, likes in 2019, and comments in 2020, followed by a general downward trend.
 
@@ -73,7 +73,7 @@ This pattern may suggest strategic content ramp-up during the year-end, possibly
 
 The varying peaks suggest changing audience engagement patterns, possibly influenced by content shifts or platform algorithm changes.
 
-## Final Results and Takeaways 🏁🔍
+## 🏁🔍 Final Results and Takeaways
 
 **Channel Evolution:** Analysis of 'Mathilification' over the past decade has revealed:
 
@@ -85,5 +85,3 @@ The varying peaks suggest changing audience engagement patterns, possibly influe
 - **Yearly engagement metrics** indicate varying peaks across views, likes, and comments, reflecting the dynamic nature of viewer interactions.
 
 This data-driven insight could serve as a strategic asset for shaping future content development, optimizing release schedules, and enhancing viewer engagement.
-
-For a complete insight journey, refer to the detailed sections above. 📈💡🎯
