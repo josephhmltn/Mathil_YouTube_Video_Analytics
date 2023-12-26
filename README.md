@@ -2,9 +2,11 @@
 
 ## ⚠️ Disclaimer
 
-**Original Work and AI-Assisted Iteration:** This project, originally completed months ago and solely by myself, is titled 'Mathil Youtube.' The current iteration, named '0_Exploratory_Data_Analysis', was undertaken to evaluate the capabilities of AI in analytics, Python coding, and API execution. This iteration serves as a testament to the collaborative potential between human insight and AI in data science.
+**Original Work**: My original project completed solely by myself is titled located [here](https://github.com/josephhmltn/Mathil_YouTube_Video_Analytics/blob/main/Original%20notebook/Mathil%20Youtube.ipynb). This represents weeks of hardwork manually writing and adjusting the Python code during initial stages of learning.
 
-*The initital insights and visualizations presented herein are a product of this AI-assisted analysis. Manual changes to coding have been applied where the AI failed.*
+**AI-Assisted Iteration**: This AI-assisted, current iteration is located [here](https://github.com/josephhmltn/Mathil_YouTube_Video_Analytics/blob/main/0_Exploratory_Data_Analysis.ipynb). This new version was undertaken to evaluate the capabilities of AI in analytics, Python coding, and API execution. This new structure was adopted to delineate the enhanced scope and to facilitate an in-depth understanding of AI applications in analytics.This iteration serves as a testament to the collaborative potential between human insight and AI in data science.
+
+*Any initital insights and visualizations presented herein, including this README file, are a product of this AI-assisted analysis.*
 
 ## 🎯 Project Goals
 
